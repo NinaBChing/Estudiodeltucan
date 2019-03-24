@@ -1,0 +1,62 @@
+---
+title: "Introducción"
+---
+
+# Descripción de la especie
+
+<p align="justify">
+
+![](imagenes/foto1.jpg)
+</p>
+**Figura 1**. Foto del Tucán pecho amarillo (*Ramphastos ambiguus*)
+\
+\
+<p align="justify">
+Los ranfástidos (Ramphastidae) conocidos vulgarmente como tucanes, son de la
+familia de aves piciformes, no existe un dimorfismo sexual pero se puede identificar
+a los juveniles por su pico más corto.
+\
+\
+Se encuentran ampliamente distribuidos por el continente americano, desde México
+a Argentina.
+Estas especies se presentan en hábitats boscosos y áreas semi-abiertas en las
+tierras bajas de las selvas húmedas tropicales(Remsen et al. 1993).
+En esta investigación se trabajó con la especie Ramphastos ambiguus, lo cuales
+se alimentan principalmente de frutos, insectos, especies pequeñas como lagartijas
+y huevos de otros aves.
+\
+\
+Se caracterizan por ser aves no migratorias, se consideran aves sociables suelen
+andar en pareja o en pequeñas bandadas alrededor de una docena .
+En su mayoría los tucanes emiten un sonido monótono o producen un gorjeo muy
+primitivo, realizan sus nidos en las cavidades de los árboles y ponen 2 a 4, con un periodo de incubación es de 43 a 46 días .(Alejandro Zuñiga,2014).
+\
+\
+Su estado de conservación es crítico, han sido cazados de una manera intensiva,
+pero la principal causa de que se encuentren en peligro de extinción se debe a la
+destrucción de su hábitat: la deforestación de las selvas, la contaminación ambiental y el crecimiento de las zonas urbanas (Guixa et al., 2000).
+\
+\
+Ante tal situación, el uso de la bioacústica como herramienta investigativa en
+estudios ornitológicos es de suma importancia, para favorecer la generación datos
+en diversos campos como ecología, estudios sobre biodiversidad y conservación
+(Asociación Colombiana de Zoología, 2010)
+</p>
+
+**Objetivo General:**
+\
+\
+Analizar los cantos de la especie *Ramphastos ambiguus* en las cinco regiones
+neotropicales utilizando el programa Raven Pro 1.5.
+\
+\
+**Objetivo Específicos:**
+
++ Calcular las diferentes métricas bioacusticas de las tres regiones
+neotropicales : Costa Rica, Ecuador y Venezuela
++ Examinar si existen diferencias entre las métricas acústicas y cada región
+neotropical
++ Analizar y divulgar la información por medio de una página web utilizando los
+programas Raven Pro 1.5 y GitHub
+
+

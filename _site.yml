@@ -1,0 +1,15 @@
+name: "Estudio del Caso Tucán Pecho Amarillo"
+navbar:
+  title: "Estudio del Caso Tucán Pecho Amarillo"
+  left:
+    - text: "Introducción"
+      href: index.html
+    - text: "Metodología"
+      href: about.html
+    - text: "Resultados"
+      href: Resultados.html
+    - text: "Discusión y Conclusiones"
+      href: Discusion.html
+      
+      
+    

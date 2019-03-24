@@ -1,0 +1,32 @@
+---
+title: "Resultados"
+---
+<p align="justify">
+Las pruebas de Kruskal-Wallis y Mann-Whitney pairwise realizadas para cada una
+de las métricas medidas demostraron que si hay diferencias el canto de R.ambiguss
+entre Costa Rica, Ecuador, y Venezuela.
+</p>
+
+```{r}
+tucan <- read.csv("./Datos.csv",sep=";")
+head(tucan)
+```
+
+```{r}
+kruskal.test(Max_entropy~Pais,data = tucan)
+kruskal.test(Min_Entropy~Pais,data = tucan)
+kruskal.test(Low_freq~Pais,data = tucan)
+kruskal.test(high._freq~Pais,data = tucan)
+kruskal.test(Diferencia_tiempo~Pais,data = tucan)
+```
+
+```{r}
+boxplot(Max_entropy~Pais,data=tucan,ylab="Máxima Entropía")
+boxplot(Min_Entropy~Pais,data = tucan,ylab="Mínima Entropía")
+boxplot(Low_freq~Pais,data = tucan,ylab="Frecuencia Baja")
+boxplot(high._freq~Pais,data = tucan,ylab="Frecuencia Alta")
+boxplot(Diferencia_tiempo~Pais,data = tucan,ylab="Diferencia de Tiempo")
+
+```
+
+
